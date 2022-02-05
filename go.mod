@@ -1,4 +1,4 @@
-module github.com/matti/curlbomber
+module github.com/matti/curler2
 
 go 1.15
 
